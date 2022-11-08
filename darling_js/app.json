@@ -1,11 +1,11 @@
 {
   "entryPagePath": "pages/index/index",
-  "pages": [
+  "pages":[
     "pages/index/index",
     "pages/main/main",
     "pages/logs/logs"
   ],
-  "window": {
+  "window":{
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#AEABAB",
     "navigationBarTitleText": "Weixin",
@@ -21,18 +21,18 @@
     "list": [{
       "pagePath": "pages/index/index",
       "text": "首页",
-      "iconPath": "images/tabar/index0.png",
-      "selectedIconPath": "images/tabar/index1.png"
+      "iconPath": "/pages/images/tabar/index0.png",
+      "selectedIconPath": "/pages/images/tabar/index1.png"
     }, {
       "pagePath": "pages/main/main",
       "text": "主页",
-      "iconPath": "images/tabar/publicity0.png",
-      "selectedIconPath": "images/tabar/publicity1.png"
+      "iconPath": "/pages/images/tabar/publicity0.png",
+      "selectedIconPath": "/pages/images/tabar/publicity1.png"
     }, {
       "pagePath": "pages/logs/logs",
       "text": "日志",
-      "iconPath": "images/tabar/publicity0.png",
-      "selectedIconPath": "images/tabar/publicity1.png"
+      "iconPath": "/pages/images/tabar/publicity0.png",
+      "selectedIconPath": "/pages/images/tabar/publicity1.png"
     }]
   },
   "style": "v2",
