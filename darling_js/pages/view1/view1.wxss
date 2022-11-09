@@ -1,0 +1,5 @@
+/* pages/view1/view1.wxss */
+
+.bubble-love {
+  visibility: hidden;
+}

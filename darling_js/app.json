@@ -1,9 +1,10 @@
 {
-  "entryPagePath": "pages/index/index",
+  "entryPagePath": "pages/view1/view1",
   "pages":[
+    "pages/view1/view1",
     "pages/index/index",
-    "pages/main/main",
-    "pages/logs/logs"
+    "pages/logs/logs",
+    "pages/main/main"
   ],
   "window":{
     "backgroundTextStyle": "light",
@@ -19,7 +20,7 @@
     "backgroundColor": "#CACACA",
     "borderStyle": "white",
     "list": [{
-      "pagePath": "pages/index/index",
+      "pagePath": "pages/view1/view1",
       "text": "首页",
       "iconPath": "/pages/images/tabar/index0.png",
       "selectedIconPath": "/pages/images/tabar/index1.png"

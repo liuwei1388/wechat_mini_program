@@ -1,0 +1,7 @@
+<!--pages/view1/view1.wxml-->
+<!-- <text>pages/view1/view1.wxml</text> -->
+<view class="bubble-love">
+  <image src="/pages/images/main/1.png"></image>
+  <image src="/pages/images/main/2.png"></image>
+  <image src="/pages/images/main/1.png"></image>
+</view>
